@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \":*)",
+      "Bash(pip install:*)",
+      "Bash(python -m pip install pandas openpyxl)",
+      "Bash(py --version)",
+      "Bash(pip3 --version)",
+      "Bash(py -m ensurepip)",
+      "Bash(py -m pip install pandas openpyxl)",
+      "Bash(py -c \":*)"
+    ]
+  }
+}
